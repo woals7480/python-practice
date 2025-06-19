@@ -41,4 +41,4 @@ class SafeFourCal(FourCal):
             return self.first / self.second
         
 c = SafeFourCal(4, 0)
-print(c.div())
+print(c.div())  
